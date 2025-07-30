@@ -76,3 +76,11 @@ requirements.txt	List of required Python libraries
 
 README.md	Project documentation and usage guide
 
+
+# Screenshots 
+
+<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/91513930-a292-44ad-86bb-758e0ecd82a6" />
+
+<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/de66f0de-e7c8-4786-849b-72fe358087dd" />
+
+
